@@ -1,4 +1,4 @@
-# React State Lab
+## React State Lab
 
 ## Learning Goals
 
